@@ -1,6 +1,6 @@
 # Connect 4 in Ruby
 
-Use this [GitHub Classroom link](https://classroom.github.com/a/A894ZptF) to create a repo for this project.
+Use this [GitHub Classroom link](https://classroom.github.com/a/mIuBGhc-) to create a repo for this project.
 
 **!!! Important !!!** This is an _individual_ assignment.  You _may not_ work in teams.
 
